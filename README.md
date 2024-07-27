@@ -1,5 +1,5 @@
 <div align='center'>
-    <h3>DevOps Engineer by day; <i>whatever-else-i-feel-like-coding</i> Engineer by night.</h3>
+    <h3>DevOps Engineer by day ☀️ <i>whatever-else-i-feel-like-coding</i> Engineer by night 🌑 </h3>
     <br>
     <table>
     <thead>
